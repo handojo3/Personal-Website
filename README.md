@@ -17,6 +17,7 @@ Welcome to the repository for my personal website! This project serves as an onl
 ## Technologies
 
 **Frontend**: React, TailwindCSS, Framer motion
+
 **Host**: Vercel
 
 View on: https://ethanhandojo.vercel.app/
